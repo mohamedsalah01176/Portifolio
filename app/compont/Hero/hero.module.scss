@@ -1,0 +1,17 @@
+.bgImage{
+    background-image: url("/Image/banner.jpg");
+    background-size: cover;
+}
+.image{
+    animation-name: up-down;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+@keyframes up-down {
+    0%{transform: translateY(-30px);}
+    // 25%{transform: translateY(25px);}
+    50%{transform: translateY(30px);}
+    100%{transform: translateY(-30px);}
+    
+}
