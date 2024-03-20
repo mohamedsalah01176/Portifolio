@@ -12,6 +12,12 @@ const Data:data[]=[
         category: "javaScript"
     },
     {
+        title:"Portifolio",
+        ImagUrl:"/Screenshot 2024-03-20 163641.png",
+        web:"https://portifolio-opal-nine-64.vercel.app/",
+        category:"nextjs"
+    },
+    {
         title:"Landing Page",
         ImagUrl:"/projects/Screenshot 2024-03-16 020046.png",
         web:"https://buteweb1.vercel.app/",

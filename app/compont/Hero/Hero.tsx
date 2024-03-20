@@ -47,7 +47,6 @@ export default function Hero() {
             <Link href={'/'} className='items-center' > <SlowMotionVideoIcon className='text-4xl mr-1  bg-[#55e6a5] rounded-full '/>Watch the vedio</Link>
           </div>
           <div className='mt-7'>
-            <a href="https://www.facebook.com/profile.php?id=100041717590761&mibextid=ZbWKwL" target='_blank'><FacebookOutlined className='text-5xl text-yellow-400 font-semibold hover:scale-110 hover:text-[#55e6a5] transition-all duration-500 '/></a>
             <a href="https://www.linkedin.com/in/mohamed-salah-aa91a8255"  target='_blank'><LinkedIn className='text-5xl text-yellow-400 font-semibold hover:scale-110 hover:text-[#55e6a5] transition-all duration-500 mx-2'/></a>
             <a href="https://github.com/mohamedsalah01176 "  target='_blank'><GitHub className='text-5xl text-yellow-400 font-semibold hover:scale-110 hover:text-[#55e6a5] transition-all duration-500'/></a>
           </div>
