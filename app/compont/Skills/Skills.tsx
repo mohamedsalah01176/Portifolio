@@ -33,20 +33,12 @@ export default function Skills() {
             <SklillesItem title={"JQUERY"} level={"80%" }/>
             <SklillesItem title={"SASS"} level={"90%" }/>
             <SklillesItem title={"BOOTSTRAP"} level={"95%" }/>
+            <SklillesItem title={"Redux Toolkit"} level={"95%" }/>
           </div>
           <div className='flex  gap-2 flex-col' data-aos="fade-left">
             <SklillesItem title={"TAILWIND"} level={"90%" }/>
             <SklillesItem title={"React JS"} level={"95%" }/>
             <SklillesItem title={"NEXT JS"} level={"95%" }/>
-          </div>
-        </div>
-        <h1 className='my-5 text-2xl font-semibold ' data-aos="fade-up">Fremeworks&Librarys</h1>
-        <div className='grid grid-cols-1 md:grid-cols-2 gap-x-5 gap-y-3'>
-          <div className='flex  gap-2 flex-col' data-aos="fade-right">
-            <SklillesItem title={"Git/Github"} level={"80%" }/>
-          </div>
-          <div className='flex  gap-2 flex-col' data-aos="fade-left">
-
           </div>
         </div>
       </div>

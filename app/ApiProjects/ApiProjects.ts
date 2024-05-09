@@ -12,10 +12,10 @@ const Data:data[]=[
         category: "javaScript"
     },
     {
-        title:"Portifolio",
-        ImagUrl:"/Screenshot 2024-03-20 163641.png",
-        web:"https://portifolio-opal-nine-64.vercel.app/",
-        category:"nextjs"
+        title:"Crud System",
+        ImagUrl:"/projects/Screenshot 2024-05-09 143053.png",
+        web:"https://crud-system-brown.vercel.app/home",
+        category: "nextjs"
     },
     {
         title:"Landing Page",
