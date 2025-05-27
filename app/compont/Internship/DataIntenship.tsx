@@ -1,10 +1,10 @@
 const DataInter=[
     {
-        title:"Raito",
-        image:"/internship/Screenshot 2024-03-16 144443.png",
-        rate:4.5,
-        decription:"I built ERP System by using React and Sass",
-        web:"https://erpsystem5-b1588.web.app/",
+        title:"Information Technology Institute",
+        image:"/internship/iti.png",
+        rate:5,
+        decription:"I built a full stack Electronics and FurniHome E-commerce",
+        web:"https://angular-mu-rouge.vercel.app/home",
     },
     {
         title:"Track Coder",

@@ -6,6 +6,24 @@ interface data{
 }
 const Data:data[]=[
     {
+        title:"Electronics",
+        ImagUrl:"/projects/electronics.png",
+        web:"https://angular-mu-rouge.vercel.app/home",
+        category: "angularjs"
+    },
+    {
+        title:"Furniture",
+        ImagUrl:"/projects/furniture.png",
+        web:"https://shoporia-two.vercel.app/",
+        category: "reactjs"
+    },
+    {
+        title:"Movies",
+        ImagUrl:"/projects/movies.png",
+        web:"https://movies-next-full-stack.vercel.app/blank/home",
+        category: "nextjs"
+    },
+    {
         title:"Ecommerce",
         ImagUrl:"/projects/Screenshot 2024-03-16 024124.png",
         web:"https://mohamedsalah01176.github.io/ecommerceJavascript/home/home.html",
@@ -80,7 +98,7 @@ const Data:data[]=[
     {   
         title:"Sample Page",
         ImagUrl:"/projects/Screenshot 2024-03-16 022200.png",
-        web:"https://mohamedsalah01176.github.io/HTML-SCC-THREE/#articles ",
+        web:"https://mohamedsalah01176.github.io/HTML-SCC-THREE ",
         category:"javascript"
     },
     

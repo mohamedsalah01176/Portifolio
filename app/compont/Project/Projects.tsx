@@ -31,9 +31,9 @@ export default function Project() {
             <div className='grid grid-cols-1  sm:grid-cols-2  lg:grid-cols-3 gap-14 transition-all duration-500 ' >
                 {datafilter.map((item,index)=>{
                     return(
-                        <div id='projects' key={index} className='w-[300px] bg-[#0b1528] p-3 mx-auto    shadow-lg shadow-blue-700 ' data-aos="zoom-out">
+                        <div id='projects' key={index} className='w-[300px] bg-[#0b1528] p-3 mx-auto shadow-lg shadow-blue-700' data-aos="zoom-out">
                             <div className=''>
-                                <Image src={item.ImagUrl} className='mx-auto' alt='' width={280} height={150}/>
+                                <Image src={item.ImagUrl} className='mx-auto h-[150px]' alt='' width={280} height={150}/>
                                 <div className='flex justify-between my-3 items-center'>
                                     <h1 className='text-white'>{item.title}</h1>
                                     <a href={item.web} target="_blank" className='bg-sky-600 py-2 px-5 rounded-lg hover:bg-sky-500 transition-all duration-300 '> Veiw Website</a>

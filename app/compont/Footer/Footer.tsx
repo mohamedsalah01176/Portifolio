@@ -33,7 +33,7 @@ export default function Footer() {
                 </div>
                 <div>
                     <h1 className='font-semibold text-xl'>Send Me Email</h1>
-                    <p className='text-lg font-normal text-slate-600'>m48162698@gmail.com</p>
+                    <p className='text-lg font-normal text-slate-600'>mohammedsalah182002@gmail.com</p>
                 </div>
             </div>
         </div>
