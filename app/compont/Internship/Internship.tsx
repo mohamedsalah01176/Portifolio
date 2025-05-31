@@ -27,7 +27,7 @@ const responsive = {
 }
 export default function Internship() {
   return (
-    <div className='bg-[#02050a] py-10 text-white '>
+    <div className='bg-[#11101e] py-10 text-white '>
         <h1 className='text-5xl text-yellow-500 font-semibold text-center' data-aos="fade-up">Internships</h1>
         <Carousel
             additionalTransfrom={0}

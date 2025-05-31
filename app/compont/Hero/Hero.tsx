@@ -25,7 +25,7 @@ export default function Hero() {
       <div className='relative  '>
         <Particle />
       </div>
-      <div className='w-10/12 mx-auto mt-[80px] pt-12  text-white flex justify-between items-center h-full gap-2 flex-col-reverse md:flex-row' >
+      <div className='w-10/12 mx-auto mt-[80px] pt-12  text-white flex justify-between items-center h-full gap-7 md:gap-3 flex-col-reverse md:flex-row' >
         <div className='basis-7/12' data-aos="zoom-out">
           <h1 className='text-4xl font-semibold '>HI,I'M <span className='text-yellow-400'>MOHAMED</span></h1>
           <div className='text-[#55e6a5] mb-3 text-xl mt-2'>

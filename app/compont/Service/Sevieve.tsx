@@ -6,7 +6,7 @@ import "aos/dist/aos.css"
 
 export default function Sevieve() {
   return (
-    <div className='bg-[#121121] text-white p-5'>
+    <div className='bg-[#11101e] text-white p-5'>
         <div className='w-10/12 mx-auto text-center'>
             <h1 className='uppercase text-4xl font-semibold' data-aos="fade-down">my <span className='text-yellow-500'>services</span></h1>
             <div className='flex flex-wrap'>

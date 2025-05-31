@@ -6,7 +6,7 @@ import "aos/dist/aos.css"
 
 export default function Footer() {
   return (
-    <div className='bg-[#000]  text-white pt-20 pb-10' >
+    <div className='bg-[#0b0b0b]  text-white pt-20 pb-10' >
         <div className='w-[80%] mx-auto flex justify-between items-center gap-7 flex-row flex-wrap' data-aos="zoom-in-down" id="contact">
             <div className=' flex flex-row gap-3 items-center'>
                 <div className='p-3 bg-[#55e6a5] rounded-full'>

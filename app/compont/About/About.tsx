@@ -16,7 +16,7 @@ export default function About() {
     },[])
 
   return (
-    <div className='bg-[#121121] min-h-[50vh] text-white z-[1000] py-11' id="about">
+    <div className='bg-[#11101e] min-h-[50vh] text-white z-[1000] py-11' id="about">
         <div className='w-10/12 mx-auto flex flex-col  md:flex-row-reverse justify-between items-center gap-11  '>
             <div className='basis-8/12'  data-aos="fade-left">
                 <h2 className='text-xl font-medium'>About Me</h2>

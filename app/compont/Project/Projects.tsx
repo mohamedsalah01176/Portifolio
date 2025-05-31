@@ -19,7 +19,7 @@ export default function Project() {
         setDatafilter(items)
     }
   return (
-    <div className='bg-[#02050a] py-5  '>
+    <div className='bg-[#0a111d] py-5  '>
         <div className='w-10/12 mx-auto' >
             <h1 className='text-yellow-500 text-5xl font-semibold text-center my-8'  data-aos="fade-up">My Projects</h1>
             <div className='text-white text-center mb-6 grid grid-cols-2 sm:grid-cols-4 gap-4'  data-aos="zoom-in">
@@ -31,7 +31,7 @@ export default function Project() {
             <div className='grid grid-cols-1  sm:grid-cols-2  lg:grid-cols-3 gap-14 transition-all duration-500 ' >
                 {datafilter.map((item,index)=>{
                     return(
-                        <div id='projects' key={index} className='w-[300px] bg-[#0b1528] p-3 mx-auto shadow-lg shadow-blue-700' data-aos="zoom-out">
+                        <div id='projects' key={index} className='w-[300px] bg-[#0b1528] p-5 mx-auto rounded-xl shadow-lg shadow-blue-700' data-aos="zoom-out">
                             <div className=''>
                                 <Image src={item.ImagUrl} className='mx-auto h-[150px]' alt='' width={280} height={150}/>
                                 <div className='flex justify-between my-3 items-center'>

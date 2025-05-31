@@ -6,7 +6,7 @@ import "aos/dist/aos.css"
 export default function Skills() {
 
   return (
-    <div className='bg-[#121121] text-white py-10 overflow-hidden' >
+    <div className='bg-[#11101e] text-white py-10 overflow-hidden' >
       <div className='w-10/12 mx-auto'>
         <h1 className='uppercase text-yellow-500 text-5xl font-semibold text-center' data-aos="fade-up">Skills</h1>
         <h1  className='mt-10 mb-5 text-2xl font-semibold ' data-aos="fade-up" >Front End</h1>
