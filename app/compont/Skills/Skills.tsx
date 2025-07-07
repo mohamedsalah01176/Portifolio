@@ -23,7 +23,7 @@ export default function Skills() {
             <SklillesItem state="down" title={"SASS"} level={"90%" } />
             <SklillesItem state="left" title={"Bootstrap"} level={"80%" } />
             <SklillesItem state="left" title={"React JS"} level={"95%" } />
-            <SklillesItem state="left" title={"Angulat TS"} level={"95%" } />
+            <SklillesItem state="left" title={"Angular TS"} level={"95%" } />
             <SklillesItem state="left" title={"Next JS"} level={"95%" } />
             <SklillesItem state="up" title={"Redux Toolkit"} level={"95%" } />
           </div>
